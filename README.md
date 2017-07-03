@@ -1,6 +1,6 @@
 # ToDo Angular Application
 
-In this tutorial you will step-by-step learn to build a todo app. The final app will look like [this](https://vidur149.github.io/angular/).
+In this tutorial you will step-by-step learn to build a todo app. The final app will look like [this](https://vidur149.github.io/angular/todo-app-3/).
 
 
 ## How to begin?
